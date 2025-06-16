@@ -14,8 +14,8 @@ An AI-powered system for automated book content processing, from web scraping to
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd ai_pub
+git clone https://github.com/Nalwa-Jayesh/contentforge.git
+cd contentforge
 ```
 
 2. Create and activate a virtual environment:
@@ -43,7 +43,7 @@ GEMINI_API_KEY=your_api_key_here
 ## Project Structure
 
 ```
-ai_pub/
+contentforge/
 ├── agents/                  # AI agents (WebScraper, LLMAgent,HumanReviewInterface)
 │   ├── __init__.py
 │   ├── human_interface.py
