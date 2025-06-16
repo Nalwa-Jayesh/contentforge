@@ -1,0 +1,10 @@
+playwright==1.41.2
+chromadb==0.4.22
+google-genai
+aiohttp==3.9.3
+beautifulsoup4==4.12.3
+numpy==1.26.4
+python-dotenv==1.0.1
+streamlit>=1.32.0
+plotly>=5.18.0
+pandas>=2.2.0 
